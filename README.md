@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veerbala
-- 👀 I’m interested in web Devlopment
+- 👀 I’m interested in Development,
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on !!
 - 📫 How to reach me 
