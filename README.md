@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Veerbala
+- 👋 Hi, I’m @Veerabala
 - 👀 I’m interested in python,web Development,
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on !!
