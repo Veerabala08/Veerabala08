@@ -1,5 +1,5 @@
 - Hi,I’m **VEERABALA** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-- 👀 I’m interested in **python,web Development,cloud.!**
+- 👀 I’m interested in **python,web Development,Cloud Computing.!**
 - 🌱 I’m currently learning **Django**
 - 💞️ I’m looking to collaborate on **py projects.**
 
