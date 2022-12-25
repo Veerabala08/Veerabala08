@@ -1,10 +1,11 @@
 
 
-- **hey there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+- **Hello World !**  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+- I’m **Veerabala** 
+- I’m interested in **Linux,Python,Web Development,Networking** and **Cloud Computing.!**
+- I’m currently learning **Frappe**
+
   <p align="left"><a href="https://twitter.com/vrbl_ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vrbl_ok" height="30" width="40" /></a><a href="https://linkedin.com/in/veerabala-maruthaiyan-503015185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerabala-maruthaiyan-503015185" height="30" width="40" /></a><a href="https://instagram.com/vrbl_ok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vrbl_ok" height="30" width="40" /></a></p>
-- hi,i’m **veerabala** 
-- i’m interested in **linux,python,web development,networking** and **cloud computing.!**
-- im looking for a **entry level job**👀 
 
 
 <h4 align="left">languages and tools :sunglasses::</h4>
