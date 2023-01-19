@@ -2,7 +2,7 @@
 
 - **Hello World !**  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 - I’m **Veerabala** 
-- I’m interested in **Linux, Python, Web Development, Networking** and **Cloud Computing.!**
+- I’m interested in **Linux, Python, Web Development, Science** and **Cloud Computing.!**
 - I’m currently learning **Frappe**
 - My another acc ; ) <a href="https://github.com/Veerabala0801">Veerabala0801</a>
 
