@@ -4,7 +4,6 @@
 
 - **Hello World !**  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 - I’m **Veerabala** I consider myself a code enthusiast and I enjoy experimenting with technology, making things, and working on projects, whether they are related to **Web Development**. 
-- I'm learning **Flask** and working with the **Frappe framework** right now.
 
 <h4 align="left">languages and tools im working with :sunglasses::</h4>
 <p align="left">
